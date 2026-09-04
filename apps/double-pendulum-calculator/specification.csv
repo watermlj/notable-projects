@@ -1,0 +1,14 @@
+Mass 1 (kg):,1
+Mass 2 (kg):,2
+Length 1 (m):,1
+Length 2 (m):,2
+Acceleration due to Gravity (m s^(-2)):,9.80665
+Theta 1 Initial (rad):,1
+Theta 2 Initial (rad):,2
+Omega 1 Initial (rad s^(-1)):,0
+Omega 2 Initial (rad s^(-2)):,0
+Step Size (s):,0.05
+Length of Time Evolution (s):,10
+Number of Steps:,200
+Mass Color 1 (Hex):,#696969
+Mass Color 2 (Hex):,#8B8D8B
