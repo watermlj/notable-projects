@@ -6,7 +6,7 @@ Acceleration due to Gravity (m s^(-2)):,9.80665
 Theta 1 Initial (rad):,1
 Theta 2 Initial (rad):,2
 Omega 1 Initial (rad s^(-1)):,0
-Omega 2 Initial (rad s^(-2)):,0
+Omega 2 Initial (rad s^(-1)):,0
 Step Size (s):,0.05
 Length of Time Evolution (s):,10
 Number of Steps:,200
